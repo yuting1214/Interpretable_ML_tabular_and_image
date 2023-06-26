@@ -1,16 +1,16 @@
 # Interpretable_ML_tabular_and_image
 
-Implement popular model-agnostic interpretable machine learning methods, LIME and SHAP on the applications of tabular data classficiation and image data classification to delineate models' behaviors and unveil the black box models. 
+Employ popular model-agnostic interpretable machine learning methods, LIME and SHAP, to analyze and interpret the behaviors of models in the context of tabular data classification and image data classification tasks
 
-:question: **Problem:** How to establish an end-to-end data API service for image classification in AWS.
+:question: **Problem:** How to enhance the interpretability of powerful black-box models?
 
-:key: **Importance:** Demonstrate the ability to deploy a data solution by integrating data engineering skills with advanced deep learning techniques.
+:key: **Importance:** Bridge the gap between complex machine learning models and human understanding, enhancing transparency, trust, and accountability in the decision-making process.
 
-🎉 **Achievements:** Implemented transfer learning with pre-trained models to accurately classify a diverse set of 133 dog breeds in 90% accuracy, and established an efficient API service in AWS for seamless integration with other applications.
+🎉 **Achievements:** Apply LIME and SHAP techniques to shed light on the black box nature of machine learning models, providing insights into how they make predictions for both tabular and image data classification problems.
 
-💪 **Skills:** Python, Pytorch, AWS SageMaker, Deep learning
+💪 **Skills:** Python, Pytorch, Deep learning, XAI
 
-:books: **Insights:** The cost-effective way to train, fine-tune, and deploy models in AWS cloud services.
+:books: **Insights:** Inner workings of complex machine learning models, the identification of important features and patterns that drive their predictions, facilitating model debugging, feature engineering, and the identification of potential biases or limitations.
 
 # Problem statement:
 What is Interpretability? "Interpretability is the measure of how well a user can correctly and efficiently predict the model's results"
@@ -32,8 +32,8 @@ The great advantage of model-agnostic interpretation methods over model-specific
 * Accumulated Local Effects (ALE) Plot:
 
 ### Local
-* Local Surrogate (LIME)
-* Shapley Values
+* [Local Surrogate (LIME)](https://github.com/marcotcr/lime)
+* [Shapley Values](https://github.com/slundberg/shap)
 
 # Applications:
 
@@ -54,5 +54,7 @@ Stroke Prediction
 ### Pipeline
 
 ### Result
+
+# Reference:
 
 
