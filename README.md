@@ -39,22 +39,51 @@ The great advantage of model-agnostic interpretation methods over model-specific
 
 ## Tabular data prediction:
 
-Stroke Prediction
-
 ### Dataset
+[Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ### Pipeline
 
+![tabular_pipeline](/img/cs_573_GRAPH-Data_pipeline.jpg)
+|:--:| 
+| Pipeline for tabular data |
+
 ### Result
+
+![Lime_tabular](/img/lime_48796.png)
+|:--:| 
+| Lime: tabular data |
+
+![SHAP_tabular](/img/shap_48796.png)
+|:--:| 
+| SHAP: tabular data |
+
 
 ## Image data classification
 
 ### Dataset
+[Kaggle-Dog Breed Identification](https://www.kaggle.com/competitions/dog-breed-identification/data)
 
 ### Pipeline
+![img_pipeline](/img/cs_573_GRAPH-Page-5.jpg)
+|:--:| 
+| Pipeline for image data |
 
 ### Result
+![Lime_tabular](/img/lime_img.png)
+|:--:| 
+| Lime: image data |
+
+![SHAP_tabular](/img/shap_img.png)
+|:--:| 
+| SHAP: image data |
+
+# Links:
+* [Slides](https://docs.google.com/presentation/d/1RywAZKnVACfEmtSENQAHf3tkPlEYDq6TLxLe4nfo-Sw/edit?usp=sharing)
+* [Article](https://www.overleaf.com/read/kcdmtckrxrbp)
+* [Note](https://docs.google.com/document/d/1GlCb5lqmUZLP6WN2IO16M0KV0wyLoc4n9E6AGacxIbI/edit?usp=sharing)
 
 # Reference:
+* [Interpretable Machine Learning-Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 
 
