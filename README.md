@@ -1,6 +1,6 @@
 # Interpretable_ML_tabular_and_image
 
-Employ popular model-agnostic interpretable machine learning methods, LIME and SHAP, to analyze and interpret the behaviors of models in the context of tabular data classification and image data classification tasks
+Employ popular model-agnostic interpretable machine learning methods, LIME and SHAP, to analyze and interpret the behaviors of models in the context of tabular data classification and image data classification tasks.
 
 :question: **Problem:** How to enhance the interpretability of powerful black-box models?
 
